@@ -1,0 +1,161 @@
+
+body ,html{
+   margin: 0%;
+    box-sizing: border-box;
+    background-image: url(/images/image5\ \(2\).jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+img{
+    margin: 0%;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+
+}
+h1{
+    color: white;
+    font-size: 50px;
+    margin-top: 10px;
+}
+.card{
+    top: 50%;
+    bottom: 0%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width:30%;
+    height: 100%;
+    background-color:rgba(0,0,0,0.6);
+    box-sizing: border-box;
+    box-shadow:0 15px 25px black;
+    padding:40px;
+    border-radius: 10px; 
+    margin-top: 20em;
+    margin-left: 40em;
+}
+#input{
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+    
+}
+#email{
+    padding: 13px;
+    font-size: 18px;
+    outline: none;
+    border: none;
+    width: 300px;
+    background-color: white;
+    opacity: 0.2;
+    color: white;
+}
+
+#pword{
+    padding: 13px;
+    font-size: 18px;
+    outline: none;
+    border: none; 
+    width: 300px;
+    background-color: white;
+    opacity: 0.2;
+    color: white;
+} 
+ #submit{
+    padding: 13px;
+    font-size: 18px;
+    background-color: red; 
+    color: white;
+    width: 320px;
+    outline: none;
+    border: none;
+}
+
+.media{
+    padding-top: 25px;
+}
+#p{
+display: inline;
+}
+p{
+    color:whitesmoke;
+    font-size: 18px;
+}
+#sign{
+    margin: 8px;
+    color: white;
+    
+}
+
+/* a{
+    font-size: 20px;
+    color: white;
+} */
+
+
+span{
+    display: inline;
+    color: white;
+    padding-right: 10px;
+ } 
+ 
+.fa fa-facebook-square{
+    color: white;
+    padding: 10px;
+}
+.link{
+    color: blue;
+    text-decoration: none;
+}
+#link2{
+    color: white;
+    font-size: 23px;
+    font-weight: bolder;
+    text-decoration: none;
+    padding: 10px;
+}
+/* .para2{
+    color: white;
+    font-size: 18px;
+} */
+footer{
+ background-color: black;
+ margin-bottom: 50px;
+ width: 100%;
+ height: 200px;
+ opacity: 0.7;
+display: inline-flex;
+
+}
+.link3{
+    text-decoration: none;
+    color: white;
+    
+}
+.link3 :hover{
+    border-bottom: 1px solid white;
+}
+.span{
+    padding-left: 50px;
+}
+/* .footer{
+    display: block;
+  
+} */
+.contact{
+    font-size: 20px;
+    margin-top: 25px;
+    padding: 10px;
+}
+.help{
+    padding: 6em;
+}
+.info{
+    padding: 6em;  
+}
+.priv{
+    padding: 6em;
+}
+.con{
+    padding:50px;
+}
